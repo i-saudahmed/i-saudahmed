@@ -11,7 +11,7 @@ Currently, I am diving deeper into backend technologies, including Node.js, and 
 ### 🔬 Final Year Project (FYP) - Job Scout  
 I am working on my final year project, Job Scout, an AI-powered resume screening tool that automates recruitment by analyzing resumes, matching job descriptions, and generating personalized feedback.
 
-I’m always eager to collaborate on web development or AI-driven projects. Let’s connect and build something great together! 
+I’m always eager to collaborate on web development or AI-driven projects. Let’s connect and build something great together!  
  
 📫 **How to reach me:** ahmedsaud00785@gmail.com
 
