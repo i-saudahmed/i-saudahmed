@@ -4,7 +4,7 @@ I’m Saud, a final-year Computer Science student at DHA Suffa University, passi
     
 ### MERN Stack Developer Intern – HashOne Digital        
          
-During my internship as a MERN Stack Developer at HashOne Digital, I enhanced my technical skills by collaborating with senior developers to deliver efficient and well-structured projects on time. My role involved developing responsive web designs, maintaining web pages, integrating APIs, and debugging errors to optimize performance. I also explored various UI libraries to improve development efficiency and user experience. Through this experience, I gained hands-on expertise in modern web technologies like Next.js, React.js, Tailwind CSS, and ShadCN, enabling me to build scalable and visually appealing web applications. 
+During my internship as a MERN Stack Developer at HashOne Digital, I enhanced my technical skills by collaborating with senior developers to deliver efficient and well-structured projects on time. My role involved developing responsive web designs, maintaining web pages, integrating APIs, and debugging errors to optimize performance. I also explored various UI libraries to improve development efficiency and user experience. Through this experience, I gained hands-on expertise in modern web technologies like Next.js, React.js, Tailwind CSS, and ShadCN, enabling me to build scalable and visually appealing web applications.  
  
 Currently, I am diving deeper into backend technologies, including Node.js, and expanding my knowledge of full-stack development. I enjoy exploring how frontend and backend interact to create dynamic, efficient web applications.
  
