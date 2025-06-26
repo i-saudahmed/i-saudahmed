@@ -9,7 +9,7 @@ During my internship as a MERN Stack Developer at HashOne Digital, I enhanced my
 Currently, I am diving deeper into backend technologies, including Node.js, and expanding my knowledge of full-stack development. I enjoy exploring how frontend and backend interact to create dynamic, efficient web applications.
  
 ### 🔬 Final Year Project (FYP) - Job Scout  
-I am working on my final year project, Job Scout, an AI-powered resume screening tool that automates recruitment by analyzing resumes, matching job descriptions, and generating personalized feedback.
+I am working on my final year project, Job Scout, an AI-powered resume screening tool that automates recruitment by analyzing resumes, matching job descriptions, and generating personalized feedback. 
 
 I’m always eager to collaborate on web development or AI-driven projects. Let’s connect and build something great together!  
  
