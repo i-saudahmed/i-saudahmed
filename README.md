@@ -14,7 +14,7 @@ I am working on my final year project, Job Scout, an AI-powered resume screening
 I’m always eager to collaborate on web development or AI-driven projects. Let’s connect and build something great together!  
  
 📫 **How to reach me:** ahmedsaud00785@gmail.com
-
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-saudahmed/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21908592/saud) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AbdulHadiWasee3) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ahmedsaud00785@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://your-portfolio.com) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/ahmedsaud00785)
