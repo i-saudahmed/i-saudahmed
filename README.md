@@ -1,6 +1,6 @@
 # 💫 About Me:   
      
-I’m Saud, a final-year Computer Science student at DHA Suffa University, passionate about learning new technologies and solving real-world problems. Skilled in programming and problem-solving, I focus on building efficient, scalable applications. I actively seek opportunities to enhance my skills, tackle challenges, and collaborate in dynamic team environments to grow as a versatile developer.    
+I’m Saud, a final-year Computer Science student at DHA Suffa University, passionate about learning new technologies and solving real-world problems. Skilled in programming and problem-solving, I focus on building efficient, scalable applications. I actively seek opportunities to enhance my skills, tackle challenges, and collaborate in dynamic team environments to grow as a versatile developer.     
        
 ### MERN Stack Developer Intern – HashOne GLobal          
              
