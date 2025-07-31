@@ -21,7 +21,7 @@ Developed an **AI-powered resume screening tool** that automates recruitment pro
 - **Frontend**: JavaScript, React.js, Next.js, Tailwind CSS, ShadCN UI
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB, MySQL
-- - **Programming Fundamentals**: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
+- **Programming Fundamentals**: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
 - **Tools & Technologies**: Git, RESTful APIs, Postman, Responsive Design
 
 ## 🌟 What Drives Me
