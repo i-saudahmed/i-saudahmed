@@ -1,17 +1,33 @@
-# 💫 About Me:         
-     
-I’m Saud, a final-year Computer Science student at DHA Suffa University, passionate about learning new technologies and solving real-world problems. Skilled in programming and problem-solving, I focus on building efficient, scalable applications. I actively seek opportunities to enhance my skills, tackle challenges, and collaborate in dynamic team environments to grow as a versatile developer.       
-          
-### MERN Stack Developer Intern – HashOne GLobal           
-             
-During my internship as a MERN Stack Developer at HashOne Digital, I enhanced my technical skills by collaborating with senior developers to deliver efficient and well-structured projects on time. My role involved developing responsive web designs, maintaining web pages, integrating APIs, and debugging errors to optimize performance. I also explored various UI libraries to improve development efficiency and user experience. Through this experience, I gained hands-on expertise in modern web technologies like Next.js, React.js, Tailwind CSS, and ShadCN, enabling me to build scalable and visually appealing web applications.   
- 
-Currently, I am diving deeper into backend technologies, including Node.js, and expanding my knowledge of full-stack development. I enjoy exploring how frontend and backend interact to create dynamic, efficient web applications. 
-  
-### 🔬 Final Year Project (FYP) - Job Scout  
-I am working on my final year project, Job Scout, an AI-powered resume screening tool that automates recruitment by analyzing resumes, matching job descriptions, and generating personalized feedback. 
+# 💫 About Me
 
-I’m always eager to collaborate on web development or AI-driven projects. Let’s connect and build something great together!  
+I'm **Saud**, a **Software Engineer** and recent Computer Science graduate from DHA Suffa University. I'm passionate about building scalable web applications and solving complex problems through innovative technology solutions.
+
+## 🚀 Current Role
+**MERN Stack Developer** at **HashOne Global** (January 2025 - Present)
+
+Currently developing responsive web applications using modern technologies including React.js, Next.js, Node.js, and Tailwind CSS. I focus on creating efficient, user-centric solutions while continuously expanding my expertise in full-stack development.
+
+## 🎓 Education & Projects
+**Bachelor of Computer Science** - DHA Suffa University (2025)
+
+### Final Year Project: Job Scout
+Developed an **AI-powered resume screening tool** that automates recruitment processes by:
+- Analyzing resumes with intelligent matching algorithms
+- Comparing candidate profiles with job descriptions
+- Generating personalized feedback for applicants
+- Streamlining the hiring process for recruiters
+
+## 💻 Technical Expertise
+- **Frontend**: JavaScript, React.js, Next.js, Tailwind CSS, ShadCN UI
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB, MySQL
+- - **Programming Fundamentals**: Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
+- **Tools & Technologies**: Git, RESTful APIs, Postman, Responsive Design
+
+## 🌟 What Drives Me
+I'm passionate about creating impactful web applications that solve real-world problems. Whether it's building intuitive user interfaces or developing robust backend systems, I thrive on turning complex challenges into elegant solutions.
+
+Always open to collaborating on exciting web development and AI-driven projects. Let's connect and build something amazing together! 🚀
  
 📫 **How to reach me:** ahmedsaud00785@gmail.com
  
