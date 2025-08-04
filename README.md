@@ -5,7 +5,7 @@ I'm **Saud**, a **Software Engineer** and recent Computer Science graduate from 
 ## 🚀 Current Role
 **MERN Stack Developer** at **HashOne Global** (January 2025 - Present) 
 
-Currently developing responsive web applications using modern technologies including React.js, Next.js, Node.js, and Tailwind CSS. I focus on creating efficient, user-centric solutions while continuously expanding my expertise in full-stack development.
+Currently developing responsive web applications using modern technologies including React.js, Next.js, Node.js, and Tailwind CSS. I focus on creating efficient, user-centric solutions while continuously expanding my expertise in full-stack development. 
 
 ## 🎓 Education & Projects
 **Bachelor of Computer Science** - DHA Suffa University (2025)
