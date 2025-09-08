@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm **Saud**, a **Software Engineer** and recent Computer Science graduate from DHA Suffa University. I'm passionate about building scalable web applications and solving complex problems through innovative technology solutions. 
+I'm **Saud**, a **Junior Software Engineer** and recent Computer Science graduate from DHA Suffa University. I'm passionate about building scalable web applications and solving complex problems through innovative technology solutions. 
 
 ## 🚀 Current Role
 **MERN Stack Developer** at **HashOne Global** (January 2025 - Present)  
