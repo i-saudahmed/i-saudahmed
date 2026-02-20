@@ -2,7 +2,13 @@
 
 Hi, I'm **Saud Ahmed** — a **Junior Software Engineer / Full-Stack Developer** passionate about building scalable web applications and solving real-world problems with clean, maintainable code.
 
-I specialize in **React / Next.js frontend development** and **Java Spring Boot backend systems**, and I enjoy working across the full stack to deliver complete production-ready applications.
+I work across the full stack using:
+
+⚡ **React / Next.js** for modern frontend apps
+⚡ **Java + Spring Boot** for scalable backend systems
+⚡ REST APIs, authentication, databases & deployment
+
+I enjoy turning complex problems into production-ready software.
 
 ---
 
