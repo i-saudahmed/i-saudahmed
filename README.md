@@ -1,32 +1,51 @@
-# 💫 About Me
-
-Hi, I'm **Saud Ahmed** — a **Software Engineer / Full-Stack Java Developer** passionate about building scalable web applications and solving real-world problems with clean, maintainable code.
-
-I work across the full stack using:
-
-⚡ **React / Next.js** for modern frontend apps
-⚡ **Java + Spring Boot / Quarkus** for scalable backend systems
-⚡ REST APIs, authentication, databases & deployment
-
-I enjoy turning complex problems into production-ready software.
+# Hi, I'm Saud Ahmed 👋
+ 
+### Backend Java Developer | Spring Boot · Spring MVC · REST APIs · Hibernate/JPA
+ 
+I'm a backend-focused software engineer based in Karachi, Pakistan, with 1.5+ years of experience building and maintaining RESTful services in Java. I care about clean, maintainable code and learn fastest by shipping real features and fixing real production bugs.
 
 ---
 
-## 🚀 Current Role
-
-**Junior Software Engineer – HashOne Global** *(Jan 2025 – Present)*
-
-* Build responsive and high-performance web apps using **React.js, Next.js, and Tailwind**
-* Develop and integrate **REST APIs, authentication systems, and backend services**
-* Work on both **frontend UI architecture** and **backend logic & database handling**
-* Focus on writing scalable, reusable, and clean production-level code
+### 🚀 Current Role
+ 
+**Software Engineer — HashOne Global** *(Jan 2025 – Present)*
+ 
+- Build and maintain backend APIs and server-side logic for production web applications
+- Helped cut backend errors by ~35% through improved data reliability
+- Collaborate with senior engineers through structured code reviews and Git-based workflows in an agile team
+- Also contribute to frontend features and UI components, reducing user-reported UI bugs by ~30%
 
 ---
+ 
+### 🛠️ Core Stack
+ 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-008080?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
+---
+ 
+### 🎓 Education
+ 
+**BS Computer Science — DHA Suffa University**
+Oct 2021 – Jul 2025
+ 
+---
 
-## 🎓 Education
-
-**Bachelor of Computer Science — DHA Suffa University (2025)**
-
+### 📜 Certifications
+ 
+- SQL: From Zero to Hero — Unleash the Data Superpowers Within
+- Spring Boot 4, Spring 7 & Hibernate for Beginners
+- JavaScript for Beginners: The Complete Course For Beginners
+- TypeScript
+- CSS Basics
+ 
 ---
 
 ## 🧠 Major Projects
@@ -69,37 +88,7 @@ I enjoy turning complex problems into production-ready software.
 
 ---
 
-## 💻 Technical Skills
-
-### 🔹 Frontend
-
-JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, ShadCN UI
-
-### 🔹 Backend
-
-Java, Spring Boot, Quarkus, Spring Security, Spring Data JPA, Hibernate, REST APIs
-
-### 🔹 Databases
-
-MongoDB, MySQL, PostgreSQL
-
-### 🔹 Tools
-
-Git, Docker, Postman, Maven, AWS
-
----
-
-## 🌟 What Drives Me
-
-I love building **end-to-end applications** — from designing user interfaces to implementing backend architecture and deploying scalable systems.
-
-I'm always learning, improving, and open to working on:
-
-✅ Full-stack web applications
-✅ Java / Spring Boot backend systems
-✅ React / Next.js projects
-✅ AI-powered software solutions
-
-Let’s build something impactful 🚀
-
-📫 **Contact:** [ahmedsaud00785@gmail.com](mailto:ahmedsaud00785@gmail.com)
+### 📫 Let's Connect
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-saudahmed)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedsaud00785@gmail.com)
